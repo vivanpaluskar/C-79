@@ -1,0 +1,17 @@
+#submitbutton{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#sortbutton{
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+input{
+    margin: 10px;
+}
+h3{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-weight: bold;
+}
